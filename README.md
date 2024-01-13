@@ -19,7 +19,7 @@ Navigating the dynamic realm of Information Systems as a passionate Master of Sc
 ## 📬 Get in Touch
 
 - 📫 **Email**: arepalli.o@northeastern.edu
-- 💬 **LinkedIn**: [Connect with me](www.linkedin.com/in/om-satya-swaroop)
+- 💬 **LinkedIn**: www.linkedin.com/in/om-satya-swaroop
 - 🌐 **Portfolio**: [Visit my Portfolio](#)
 
 ---
